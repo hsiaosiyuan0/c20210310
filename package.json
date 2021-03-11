@@ -2,9 +2,13 @@
   "name": "c20210310",
   "displayName": "c20210310",
   "description": "Counting days from 20210310.",
+  "publisher": "hsiaosiyuan0",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.54.0"
+  },
+  "repository": {
+    "url": "https://github.com/hsiaosiyuan0/c20210310.git"
   },
   "categories": [
     "Other"
